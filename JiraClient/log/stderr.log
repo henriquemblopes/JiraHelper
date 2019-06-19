@@ -1,0 +1,10 @@
+20190618-224204.925 SEVERE Failed to import tags on the first run: java.lang.Exception: D:\Program Files (x86)\JIRA Client\etc\tagexporter\tagexporter.jar is not a file
+java.lang.Throwable: Failed to import tags on the first run: java.lang.Exception: D:\Program Files (x86)\JIRA Client\etc\tagexporter\tagexporter.jar is not a file
+	at org.almworks.util.Log.error(Z:51)
+	at z.gpd.a(Z:74)
+	at z.gpd.a(Z:31)
+	at z.gpe.run(Z:60)
+	at z.jhy.run(Z:303)
+	at java.lang.Thread.runUnknown Source
+	at z.jhl.run(Z:12)
+==========================================================================================
